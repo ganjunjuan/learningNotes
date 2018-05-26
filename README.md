@@ -1,5 +1,3 @@
 # learningNotes
 
-## 学习了github
-
-学习笔记
+1. javaScript/notes.md   js 学习笔记
