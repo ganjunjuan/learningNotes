@@ -17,6 +17,20 @@
 ````
 
 
+
+window.setInterval(),可以传两个参数，第一个：可以是个函数或一段代码字符串；第二个：要间隔执行代码的毫秒数。
+
+````
+setInterval(function () {
+    console.log(new Date())
+
+},2000)
+
+````
+
+
+
+
 ````
  var sub = function(a,b){
     // 求和
